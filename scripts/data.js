@@ -17,6 +17,12 @@ const treehouses = [
     description: 'A centuries-old majestic oak is home to Suite Bleue, one of two tree houses at La Piantata Bed & Breakfast in Italy’s northern Lazio region. The simple red-cedar building was constructed in France by the Provence-based specialty firm La Cabane Perchée and transported to a sprawling field of lavender on the resort’s estate.',
     contributor: 'Wes'
   },
+  {
+    title: 'The HemLoft Treehouse (Whistler, Canada)',
+    img: 'https://static.boredpanda.com/blog/wp-content/uuuploads/amazing-treehouses/amazing-treehouses-13.jpg',
+    description: 'After retiring at the age of 26, software developer Joel Allen became a carpenter and fulfilled his dream of “building something cool”. Kind of an understatement. He never thought this personal project would be featured in international design magazines!',
+    contributor: 'Branden'
+  }
 ]
 
 module.exports = {
