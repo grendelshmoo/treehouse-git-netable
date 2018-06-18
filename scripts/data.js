@@ -18,6 +18,12 @@ const treehouses = [
     contributor: 'Wes'
   },
   {
+    title: 'The HemLoft Treehouse (Whistler, Canada)',
+    img: 'https://static.boredpanda.com/blog/wp-content/uuuploads/amazing-treehouses/amazing-treehouses-13.jpg',
+    description: 'After retiring at the age of 26, software developer Joel Allen became a carpenter and fulfilled his dream of “building something cool”. Kind of an understatement. He never thought this personal project would be featured in international design magazines!',
+    contributor: 'Branden'
+  },
+  {
     title: 'Old house',
     img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Arba_domo_en_la_parko_de_la_Ch%C3%A2teau_de_Langeais_02.jpg/1200px-Arba_domo_en_la_parko_de_la_Ch%C3%A2teau_de_Langeais_02.jpg',
     description: 'Easily accessible along the Preston-Fall City Road SE and located just 30 minutes from Seattle in a beautiful forest along the Raging River, TreeHouse Point offers myriad possibilities for your use and enjoyment! ',
@@ -30,6 +36,7 @@ const treehouses = [
     contributor: 'Craig'
 
   },
+
 ]
 
 module.exports = {
