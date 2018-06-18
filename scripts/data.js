@@ -23,6 +23,13 @@ const treehouses = [
     description: 'Easily accessible along the Preston-Fall City Road SE and located just 30 minutes from Seattle in a beautiful forest along the Raging River, TreeHouse Point offers myriad possibilities for your use and enjoyment! ',
     contributor: 'Surya'
   },
+  {
+    title: 'Treehouse Point',
+    img: 'https://d36tnp772eyphs.cloudfront.net/blogs/1/2014/10/Treehouse-Point-b-940x703.jpg',
+    description: 'Just outside Seattle in Issaquah, Washington, is the treehouse B&B named TreeHouse Point. The place has six treehouse rooms available.',
+    contributor: 'Craig'
+
+  },
 ]
 
 module.exports = {
