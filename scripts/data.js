@@ -17,6 +17,12 @@ const treehouses = [
     description: 'A centuries-old majestic oak is home to Suite Bleue, one of two tree houses at La Piantata Bed & Breakfast in Italy’s northern Lazio region. The simple red-cedar building was constructed in France by the Provence-based specialty firm La Cabane Perchée and transported to a sprawling field of lavender on the resort’s estate.',
     contributor: 'Wes'
   },
+  {
+    title: 'Old house',
+    img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Arba_domo_en_la_parko_de_la_Ch%C3%A2teau_de_Langeais_02.jpg/1200px-Arba_domo_en_la_parko_de_la_Ch%C3%A2teau_de_Langeais_02.jpg',
+    description: 'Easily accessible along the Preston-Fall City Road SE and located just 30 minutes from Seattle in a beautiful forest along the Raging River, TreeHouse Point offers myriad possibilities for your use and enjoyment! ',
+    contributor: 'Surya'
+  },
 ]
 
 module.exports = {
